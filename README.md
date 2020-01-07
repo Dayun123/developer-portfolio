@@ -16,7 +16,7 @@ A live demo can be found here: [Accordion Demo](https://jsfiddle.net/Dayun123/s3
 
 The project at the end of Chris Ferndinandi's [DOM Injection and Traversal](https://vanillajsguides.com/dom-injection-and-traversal/) was to implement lazy loading of images. This is my attempt after reading that short guide. It doesn't follow his example to the letter, it was more the overall concept that I was trying to get right.
 
-A live demo can be found here: [Lazy Loading Demo](https://jsfiddle.net/Dayun123/7xdqymzc/)
+A live demo can be found here: [Lazy Loading Demo](https://lazy-loading-make-things-clone.herokuapp.com/)
 
 ## Web Storage
 
