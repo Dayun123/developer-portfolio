@@ -26,3 +26,11 @@ A simple example which demonstrates a way to use the Web Storage API to save som
 
 Demo can be found here: [Web Storage Demo](https://web-storage-mdn-clone.herokuapp.com/)
 
+## Persist Form Values
+
+[REPO](https://github.com/daniel-schroeder-dev/persist-form-values)
+
+A simple example that shows how the Web Storage API can be used to persist user data between page loads. Based on the final project in Chris Ferdinandi's [Browser Storage](https://vanillajsguides.com/browser-storage/).
+
+A demo can be found here [DEMO](https://daniel-schroeder-dev.github.io/persist-form-values/)
+
