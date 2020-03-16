@@ -58,3 +58,10 @@ A simple todo list app using some basic React concepts.
 
 Demo can be seen here: [React Simple Todo](https://daniel-schroeder-dev.github.io/react-simple-todo/)
 
+## Recipe
+
+[REPO](https://github.com/daniel-schroeder-dev/react-recipe)
+
+A simple app where a user can create and delete recipes.
+
+Demo can be seen here: [React Recipe](https://daniel-schroeder-dev.github.io/react-recipe)
