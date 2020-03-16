@@ -49,3 +49,14 @@ Demo can be found here: [History API Demo](https://history-api-demo.herokuapp.co
 An 8x4 grid of boxes with colored backgrounds where a random box is selected and the background is changed every 300ms. Based on a project from [The Advanced Web Developer Bootcamp](https://www.udemy.com/course/the-advanced-web-developer-bootcamp) 
 
 Demo can be seen here: [React Colors Demo](https://daniel-schroeder-dev.github.io/react-colors/)
+
+# Simple Todo
+
+[REPO](https://github.com/daniel-schroeder-dev/react-simple-todo)
+
+A simple todo list app using some basic React concepts.
+
+## Demo
+
+Demo can be seen here: [React Simple Todo](https://daniel-schroeder-dev.github.io/react-simple-todo/)
+
