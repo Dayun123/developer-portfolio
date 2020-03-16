@@ -50,13 +50,11 @@ An 8x4 grid of boxes with colored backgrounds where a random box is selected and
 
 Demo can be seen here: [React Colors Demo](https://daniel-schroeder-dev.github.io/react-colors/)
 
-# Simple Todo
+## Simple Todo
 
 [REPO](https://github.com/daniel-schroeder-dev/react-simple-todo)
 
 A simple todo list app using some basic React concepts.
-
-## Demo
 
 Demo can be seen here: [React Simple Todo](https://daniel-schroeder-dev.github.io/react-simple-todo/)
 
