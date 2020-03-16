@@ -65,3 +65,9 @@ Demo can be seen here: [React Simple Todo](https://daniel-schroeder-dev.github.i
 A simple app where a user can create and delete recipes.
 
 Demo can be seen here: [React Recipe](https://daniel-schroeder-dev.github.io/react-recipe)
+
+## Memory Game
+
+Click the cards to reveal their color. Each card has a match somewhere on the board, see if you can find them all!
+
+Demo can be seen here: [Memory Game](https://daniel-schroeder-dev.github.io/react__memory-game)
