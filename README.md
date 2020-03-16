@@ -42,4 +42,10 @@ A simple example which demonstrates a way to use the History API to rewrite the 
 
 Demo can be found here: [History API Demo](https://history-api-demo.herokuapp.com/)
 
+## React Colors
 
+[REPO](https://github.com/daniel-schroeder-dev/react-colors)
+
+An 8x4 grid of boxes with colored backgrounds where a random box is selected and the background is changed every 300ms. Based on a projct from [The Advanced Web Developer Bootcamp](https://www.udemy.com/course/the-advanced-web-developer-bootcamp) 
+
+Demo can be seen here: [React Colors Demo](https://daniel-schroeder-dev.github.io/react-colors/)
