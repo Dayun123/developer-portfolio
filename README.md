@@ -78,3 +78,10 @@ This is the second assignment from the course [React The Complete Guide](https:/
 
 Demo can be found here: [RCG Assignment 2](https://daniel-schroeder-dev.github.io/rcg-assignment-2)
 
+#% Accept Header Practice App (Express)
+
+This app is the first exercise from [Functional Design Patterns For Express.js](https://jonathanleemartin.com/books/).
+
+Hit the routes GET /users and GET /emails to get a JSON response. If you specify a Content-Type in an Accept header, the app can return JSON, XML, or CSV at those same routes, with JSON being the default if no Content-Type is specified.
+
+Visit the app [here](https://accept-header-practice.herokuapp.com/) or make requests from your favorite REST client to the base url `https://accept-header-practice.herokuapp.com/`
