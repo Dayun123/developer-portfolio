@@ -68,17 +68,23 @@ Demo can be seen here: [React Recipe](https://daniel-schroeder-dev.github.io/rea
 
 ## Memory Game
 
+[REPO](https://github.com/daniel-schroeder-dev/react__memory-game)
+
 Click the cards to reveal their color. Each card has a match somewhere on the board, see if you can find them all!
 
 Demo can be seen here: [Memory Game](https://daniel-schroeder-dev.github.io/react__memory-game)
 
 ## React Complete Guide - Assignment Two
 
+[REPO](https://github.com/daniel-schroeder-dev/rcg-assignment-2)
+
 This is the second assignment from the course [React The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux). A text input is provided and when the user enters characters, boxes representing the characters appear. Click the boxes to remove characters from the input.
 
 Demo can be found here: [RCG Assignment 2](https://daniel-schroeder-dev.github.io/rcg-assignment-2)
 
 ## Accept Header Practice App (Express)
+
+[REPO](https://github.com/daniel-schroeder-dev/express__accept-header-practice)
 
 This app is the first exercise from [Functional Design Patterns For Express.js](https://jonathanleemartin.com/books/).
 
