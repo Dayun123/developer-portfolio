@@ -78,7 +78,7 @@ This is the second assignment from the course [React The Complete Guide](https:/
 
 Demo can be found here: [RCG Assignment 2](https://daniel-schroeder-dev.github.io/rcg-assignment-2)
 
-#% Accept Header Practice App (Express)
+## Accept Header Practice App (Express)
 
 This app is the first exercise from [Functional Design Patterns For Express.js](https://jonathanleemartin.com/books/).
 
