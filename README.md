@@ -82,12 +82,12 @@ This is the second assignment from the course [React The Complete Guide](https:/
 
 Demo can be found here: [RCG Assignment 2](https://daniel-schroeder-dev.github.io/rcg-assignment-2)
 
-## Accept Header Practice App (Express)
+## Pony Express 
 
-[REPO](https://github.com/daniel-schroeder-dev/express__accept-header-practice)
+[REPO](https://github.com/daniel-schroeder-dev/pony-express)
 
-This app is the first exercise from [Functional Design Patterns For Express.js](https://jonathanleemartin.com/books/).
+This app is an implemenation of a mail server using Express from [Functional Design Patterns For Express.js](https://jonathanleemartin.com/books/).
 
 Hit the routes GET /users and GET /emails to get a JSON response. If you specify a Content-Type in an Accept header, the app can return JSON, XML, or CSV at those same routes, with JSON being the default if no Content-Type is specified.
 
-Visit the app [here](https://accept-header-practice.herokuapp.com/) or make requests from your favorite REST client to the base url `https://accept-header-practice.herokuapp.com/`
+Visit the app [here](https://pony-express-ds.herokuapp.com/) or make requests from your favorite REST client to the base url `https://pony-express-ds.herokuapp.com/`
