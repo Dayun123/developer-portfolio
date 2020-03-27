@@ -91,3 +91,17 @@ This app is an implemenation of a mail server using Express from [Functional Des
 Hit the routes GET /users and GET /emails to get a JSON response. If you specify a Content-Type in an Accept header, the app can return JSON, XML, or CSV at those same routes, with JSON being the default if no Content-Type is specified.
 
 Visit the app [here](https://pony-express-ds.herokuapp.com/) or make requests from your favorite REST client to the base url `https://pony-express-ds.herokuapp.com/`
+
+## Hacker News Top Stories
+
+[REPO](https://github.com/daniel-schroeder-dev/hacker-news-top-stories)
+
+A simple React app that pulls the top 20 stories from Hacker News and displays their titles and authors in a styled list.
+
+### Technical Notes
+
+- Simple React setup, using functional components with state/effect hooks.
+- Use of CSS Animations for `LoadingIcon` component's 'bounce' effect.
+- Async/await and Promise.all() to perform multiple `fetch()` requests to the Hacker News API.
+
+Demo can be seen at [Hacker News Top Stories](https://daniel-schroeder-dev.github.io/hacker-news-top-stories)
