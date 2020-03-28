@@ -105,3 +105,15 @@ A simple React app that pulls the top 20 stories from Hacker News and displays t
 - Async/await and Promise.all() to perform multiple `fetch()` requests to the Hacker News API.
 
 Demo can be seen at [Hacker News Top Stories](https://daniel-schroeder-dev.github.io/hacker-news-top-stories)
+
+## Guess The Flag
+
+[REPO](https://github.com/daniel-schroeder-dev/guess-the-flag)
+
+A guessing game where a random country's flag is shown with 4 possible choices for the correct answer.
+
+### Technical Notes
+
+Simple React app that demonstrates lifecycle hooks, managing state, and making API requests.
+
+Demo can be seen at [Guess The Flag](https://daniel-schroeder-dev.github.io/guess-the-flag)
