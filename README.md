@@ -117,3 +117,15 @@ A guessing game where a random country's flag is shown with 4 possible choices f
 Simple React app that demonstrates lifecycle hooks, managing state, and making API requests.
 
 Demo can be seen at [Guess The Flag](https://daniel-schroeder-dev.github.io/guess-the-flag)
+
+## Random Dog Pictures
+
+[REPO](https://github.com/daniel-schroeder-dev/random-dog-pictures)
+
+Simple app that allows a user to click a button and get a random dog image.
+
+### Technical Notes
+
+VanillaJS app that demonstrates XMLHttpRequests to a 3rd party API. Super simple setup, just a fun one-off project to re-enforce AJAX.
+
+Demo can be seen at [Random Dog Pictures](https://daniel-schroeder-dev.github.io/random-dog-pictures)
