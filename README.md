@@ -129,3 +129,21 @@ Simple app that allows a user to click a button and get a random dog image.
 VanillaJS app that demonstrates XMLHttpRequests to a 3rd party API. Super simple setup, just a fun one-off project to re-enforce AJAX.
 
 Demo can be seen at [Random Dog Pictures](https://daniel-schroeder-dev.github.io/random-dog-pictures)
+
+## Current Bitcoin Value
+
+[REPO](https://github.com/daniel-schroeder-dev/current-bitcoin-value)
+
+Get the current bitcoin value in USD, GBP, or EUR.
+
+### Technical Notes
+
+Simple JS app, no frameworks, built as a quick project to practice user-triggered AJAX requests to 3rd party API's.
+
+Demo can be seen at [Current Bitcoin Value](https://daniel-schroeder-dev.github.io/current-bitcoin-value)
+
+## Responsive Table
+
+Grid cells representing table data will adjust responsively and dynamically change the layout of the grid but still match the original data relationships.
+
+Demo can be seen at [Responsive Tables](https://daniel-schroeder-dev.github.io/responsive-tables/)
