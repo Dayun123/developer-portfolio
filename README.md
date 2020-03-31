@@ -147,3 +147,15 @@ Demo can be seen at [Current Bitcoin Value](https://daniel-schroeder-dev.github.
 Grid cells representing table data will adjust responsively and dynamically change the layout of the grid but still match the original data relationships.
 
 Demo can be seen at [Responsive Tables](https://daniel-schroeder-dev.github.io/responsive-tables/)
+
+## Random User Profile
+
+[REPO](https://github.com/daniel-schroeder-dev/random-user-profile)
+
+Generate random user profiles.
+
+### Technical Notes
+
+VanillaJS app to practice using the Fetch API and work on some CSS skillz.
+
+Demo can be seen at [Random User Profile](https://daniel-schroeder-dev.github.io/random-user-profile)
