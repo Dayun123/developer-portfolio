@@ -159,3 +159,13 @@ Generate random user profiles.
 VanillaJS app to practice using the Fetch API and work on some CSS skillz.
 
 Demo can be seen at [Random User Profile](https://daniel-schroeder-dev.github.io/random-user-profile)
+
+## Todo List
+
+[REPO](https://github.com/daniel-schroeder-dev/todo-list)
+
+Yet another todo app, hooray! This one uses Node/Express/Mongo on the backend and some simple JS on the client.
+
+## Demo
+
+Demo can be seen at [Todo List](https://ds-dev-todo-list.herokuapp.com/)
